@@ -55,6 +55,7 @@ body {
   border-radius: 110px;
   box-shadow: var(--primary-color) 0px 0px 0px 3px,
     var(--secondary-color) 0px 0px 0px 4px;
+    margin-bottom: .8rem;
 }
 
 .profile > h1 {
